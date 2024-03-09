@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/evelynhelena.png',
     alt: 'Evelyn Helena',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
