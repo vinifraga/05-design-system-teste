@@ -1,4 +1,4 @@
-# @ignite-ui/eslint-config
+# @evelyn-ignite-ui/eslint-config
 
 ## 3.0.0
 

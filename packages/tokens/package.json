@@ -16,7 +16,7 @@
   "devDependencies": {
     "tsup": "^7.2.0",
     "typescript": "^5.2.2",
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*"
+    "@evelyn-ignite-ui/ts-config": "*",
+    "@evelyn-ignite-ui/eslint-config": "*"
   }
 }
