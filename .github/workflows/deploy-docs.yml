@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: xTTJd7QRRstuC1COkSzqzQYA
+          TURBO_TOKEN: ${{ secrets.VERSEL_TOKEN }}
           TURBO_TEAM: evelyn-ds
 
 
