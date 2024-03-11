@@ -1,5 +1,11 @@
 # @evelyn-ignite-ui/react
 
+## 3.2.0
+
+### Minor Changes
+
+- Arrumando bugs
+
 ## 3.1.0
 
 ### Minor Changes
